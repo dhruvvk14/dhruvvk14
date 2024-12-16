@@ -1,3 +1,3 @@
-This is a repository where I mostly have my USACO solutions.
+kind of shows the story of my life? :eyes:
 
-Hopefully, most of them are commented :)
+hopefully, most of my code is commented :)
