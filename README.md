@@ -1,3 +1,5 @@
-kind of shows the story of my life? :eyes:
+Hi, I'm Dhruv.
 
-hopefully, most of my code is commented :)
+I'm into CS, Math, and Engineering, specifically in Fullstack Development, Computer Vision, and learning/building more!
+
+Checkout some of my cool projects :)
